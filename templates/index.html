@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/style.css">
+    <title>Disease Identification Chatbot</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Disease Identification Chatbot</h1>
+        <form id="symptomForm" action="/predict" method="post">
+            <label for="symptoms">Enter symptoms:</label>
+            <input type="text" id="symptoms" name="symptoms" required>
+            <button type="submit">Submit</button>
+        </form>
+        <div id="result">
+            {% if disease %}
+                <h2>Diagnosis: {{ disease }}</h2>
+                <h3>Recommended Food:</h3>
+                <ul>
+                    {% for item in food %}
+                        <li>{{ item }}</li>
+                    {% endfor %}
+                </ul>
+                <h3>Rest Days: {{ rest_days }}</h3>
+                <h3>Medications:</h3>
+                <ul>
+                    {% for medication in medications %}
+                        <li>{{ medication }}</li>
+                    {% endfor %}
+                </ul>
+                <h3>Nearby Hospitals:</h3>
+                <ul>
+                    {% for hospital in nearby_hospitals %}
+                        <li>{{ hospital }}</li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        </div>
+        <div class="error" id="error" style="display: none;"></div>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>
