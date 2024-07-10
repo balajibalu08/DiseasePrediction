@@ -1,0 +1,50 @@
+symptoms,disease,food,rest_days,medications,nearby_hospitals
+cold,headache,Common Cold,idly;apple juice;grapes;pineapple,3,paracetamol;antihistamines,City Hospital;General Clinic
+fever,headache,Influenza,rice;orange juice;watermelon;banana,5,ibuprofen;oseltamivir,City Hospital;General Clinic
+cough,chest pain,Bronchitis,porridge;lemon tea;honey;ginger,4,antibiotics;cough syrup,City Hospital;General Clinic
+rash,itching,Allergy,oats;green tea;berries;carrots,2,antihistamines;calamine lotion,City Hospital;General Clinic
+sore throat,fever,Tonsillitis,soup;mint tea;soft fruits;honey,3,antibiotics;pain relievers,City Hospital;General Clinic
+runny nose,sneezing,Hay Fever,yogurt;herbal tea;pears;kiwi,2,antihistamines;nasal spray,City Hospital;General Clinic
+nausea,vomiting,Food Poisoning,rice;toast;banana;electrolyte water,2,antibiotics;antiemetics,City Hospital;General Clinic
+fatigue,muscle pain,Dengue Fever,broth;hydration drinks;papaya leaf extract,5,acetaminophen;electrolyte solution,City Hospital;General Clinic
+joint pain,rash,Chikungunya,hydration drinks;ginger tea;fresh fruits,7,pain relievers;antipyretics,City Hospital;General Clinic
+high fever,headache,Malaria,boiled vegetables;rice porridge;herbal tea,7,antimalarial drugs,City Hospital;General Clinic
+abdominal pain,diarrhea,Gastroenteritis,boiled potatoes;white rice;toast,3,antibiotics;antiemetics,City Hospital;General Clinic
+weight loss,cough,Tuberculosis,oatmeal;leafy greens;berries,10,antibiotics;antitubercular drugs,City Hospital;General Clinic
+headache,dizziness,Migraine,whole grains;almonds;spinach,2,triptans;beta blockers,City Hospital;General Clinic
+blurred vision,frequent urination,Diabetes,whole grains;vegetables;fruits,0,insulin;metformin,City Hospital;General Clinic
+fatigue,weight gain,Hypothyroidism,lean meat;dairy;nuts,0,levothyroxine,City Hospital;General Clinic
+shortness of breath,swelling,Heart Failure,whole grains;lean protein;fruits,0,ACE inhibitors;beta blockers,City Hospital;General Clinic
+chest pain,shortness of breath,Angina,whole grains;fruits;vegetables,0,nitrates;beta blockers,City Hospital;General Clinic
+cough,wheezing,Asthma,oats;broccoli;spinach,0,inhalers;leukotriene modifiers,City Hospital;General Clinic
+fatigue,pain,Anemia,red meat;beans;spinach,0,iron supplements;vitamin B12,City Hospital;General Clinic
+jaundice,abdominal pain,Hepatitis B,whole grains;fruits;vegetables,5,antiviral drugs;interferon,City Hospital;General Clinic
+high blood pressure,headache,Hypertension,whole grains;leafy greens;berries,0,diuretics;ACE inhibitors,City Hospital;General Clinic
+fatigue,weakness,Kidney Disease,low sodium foods;berries;fish,0,ACE inhibitors;diuretics,City Hospital;General Clinic
+fever,night sweats,HIV/AIDS,lean protein;fruits;vegetables,0,antiretrovirals,City Hospital;General Clinic
+headache,stiff neck,Meningitis,broth;hydration drinks;soft fruits,7,antibiotics;antivirals,City Hospital;General Clinic
+painful urination,frequent urination,Urinary Tract Infection,cranberry juice;water;broth,2,antibiotics,City Hospital;General Clinic
+sore throat,cough,Pneumonia,soup;hydration drinks;ginger tea,5,antibiotics;antivirals,City Hospital;General Clinic
+fever,swollen glands,Mononucleosis,soup;herbal tea;hydration drinks,5,pain relievers;steroids,City Hospital;General Clinic
+dry mouth,increased thirst,Hyperglycemia,whole grains;vegetables;fruits,0,insulin;oral hypoglycemics,City Hospital;General Clinic
+fatigue,dry skin,Hypoglycemia,fruit juice;glucose tablets;honey,0,glucose tablets;glucagon,City Hospital;General Clinic
+headache,fever,Typhoid,boiled potatoes;rice porridge;herbal tea,10,antibiotics,City Hospital;General Clinic
+vomiting,diarrhea,Cholera,hydration drinks;rice;bananas,7,antibiotics;hydration solution,City Hospital;General Clinic
+fever,cough,Whooping Cough,soup;hydration drinks;soft fruits,7,antibiotics,City Hospital;General Clinic
+weight loss,night sweats,Leukemia,high protein foods;leafy greens;fruits,0,chemotherapy;targeted therapy,City Hospital;General Clinic
+fatigue,joint pain,Lupus,fruits;vegetables;lean proteins,0,NSAIDs;antimalarials,City Hospital;General Clinic
+abdominal pain,bloating,Irritable Bowel Syndrome,low FODMAP foods;rice;lean meat,0,antispasmodics;fiber supplements,City Hospital;General Clinic
+painful urination,blood in urine,Kidney Stones,hydration drinks;low sodium foods;fruits,3,pain relievers;alpha blockers,City Hospital;General Clinic
+joint pain,stiffness,Arthritis,fruits;vegetables;whole grains,0,NSAIDs;DMARDs,City Hospital;General Clinic
+fever,weight loss,Tuberculosis,high protein foods;whole grains;leafy greens,10,antitubercular drugs;antibiotics,City Hospital;General Clinic
+chest pain,shortness of breath,Coronary Artery Disease,whole grains;fruits;lean proteins,0,statins;beta blockers,City Hospital;General Clinic
+fatigue,swollen glands,Lymphoma,high protein foods;leafy greens;berries,0,chemotherapy;radiation therapy,City Hospital;General Clinic
+fever,abdominal pain,Appendicitis,broth;hydration drinks;plain rice,7,antibiotics;pain relievers,City Hospital;General Clinic
+vomiting,diarrhea,Rotavirus,hydration drinks;plain rice;toast,3,oral rehydration solution;antipyretics,City Hospital;General Clinic
+fatigue,weakness,Hemophilia,lean proteins;fruits;vegetables,0,clotting factor replacement;desmopressin,City Hospital;General Clinic
+weight gain,fatigue,Cushing's Syndrome,whole grains;lean proteins;fruits,0,ketoconazole;mitotane,City Hospital;General Clinic
+fever,headache,Rabies,hydration drinks;soft foods;herbal tea,14,rabies immunoglobulin;rabies vaccine,City Hospital;General Clinic
+rash,itching,Measles,hydration drinks;soft foods;herbal tea,7,vitamin A supplements;antipyretics,City Hospital;General Clinic
+fever,cough,Rubella,soup;hydration drinks;soft foods,5,antipyretics,City Hospital;General Clinic
+headache,vomiting,Japanese Encephalitis,hydration drinks;soft foods;herbal tea,7,antivirals;pain relievers,City Hospital;General Clinic
+fatigue,joint pain,Rheumatoid Arthritis,fruits;vegetables;lean proteins,0,DMARDs;biologics,City Hospital;General Clinic
